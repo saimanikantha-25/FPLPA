@@ -1,0 +1,9 @@
+{
+  "developmentCommand": "python main.py",
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/dashboard.html"
+    }
+  ]
+}
