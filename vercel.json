@@ -1,5 +1,4 @@
 {
-  "developmentCommand": "python main.py",
   "rewrites": [
     {
       "source": "/",
